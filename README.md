@@ -17,14 +17,11 @@
 
 ### 📌 Featured Projects
 
-#### 📝 [Blog Application](https://your-blog-app-link.com)
+#### 📝 [Blog Application](https://blog-mern-aoc0.onrender.com)
 A full-stack blog platform allowing users to create, read, and view detailed blog posts. Built using EJS templating, with clean UI and route-based navigation.
 
-#### 🥗 [Food Delivery App](https://your-food-app-link.com)
+#### 🥗 [Food Delivery App](https://food-devi-frontend-3kzm.onrender.com)
 React-based food ordering app with cart management, login functionality, and an admin panel for order control. Responsive and mobile-friendly.
-
-#### ✅ [Task Management App](https://your-task-app-link.com)
-A productivity-focused task manager with add/delete/edit functionality. Built in React with state management and clean component architecture.
 
 ---
 
@@ -37,8 +34,8 @@ A productivity-focused task manager with add/delete/edit functionality. Built in
 ---
 
 ### 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: youremail@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/akash-bojja-b27930293/)
+- 📧 Email: sbakash434@gmail.com
 
 ---
 
