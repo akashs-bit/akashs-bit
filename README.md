@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Akash Sb</h1>
+<h1 align="center">Hi there 👋, I'm Akash Bojja</h1>
 
 <p align="center">
   🚀 Front-End Developer | MERN Stack Learner <br/>
