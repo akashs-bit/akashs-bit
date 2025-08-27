@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Akash Bojja</h1>
 
 <p align="center">
-  🚀 Front-End Developer | MERN Stack Learner <br/>
+  🚀 MERN Stack Developer <br/>
   🎯 Focused on building clean, responsive UIs using React <br/>
 </p>
 
