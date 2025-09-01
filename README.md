@@ -10,7 +10,7 @@
 ### 🔧 Tech Stack
 - HTML, CSS, JavaScript
 - React.js, Node.js, Express.js
-- MongoDB (basic), Git & GitHub
+- MongoDB , Git & GitHub
 - REST APIs, EJS, Postman
 
 ---
