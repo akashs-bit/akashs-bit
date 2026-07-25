@@ -36,16 +36,25 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🩸 <a href="https://arogya-blood-center.vercel.app">Arogya Component Blood Center</a></h4>
-      <p>A full-stack web platform designed to streamline blood donation services and information sharing. Features secure user authentication, an admin dashboard, donor management, camp scheduling, and detailed blog post management.</p>
+      <h3>🩸 Arogya Component Blood Center</h3>
+      <p>A full-stack web platform designed to streamline blood donation services and information sharing. Features secure user authentication, an admin dashboard, donor management, camp scheduling, and blog posts.</p>
+      <p>
+        <a href="https://arogya-blood-center.vercel.app">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🥗 <a href="https://food-devi-frontend-3kzm.onrender.com">Food Delivery App</a></h4>
+      <h3>🥗 Food Delivery App</h3>
       <p>A responsive React-based food ordering application equipped with seamless cart management, user authentication, and an intuitive admin panel for real-time order control.</p>
+      <p>
+        <a href="https://food-devi-frontend-3kzm.onrender.com">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-EF5B25?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">
