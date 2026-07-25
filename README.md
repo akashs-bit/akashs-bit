@@ -17,8 +17,8 @@
 
 ### 📌 Featured Projects
 
-#### 📝 [Blog Application](https://blog-mern-aoc0.onrender.com)
-A full-stack blog platform allowing users to create, read, and view detailed blog posts. Built using EJS templating, with clean UI and route-based navigation.
+#### 📝 [Arogya Component Blood Center ](https://arogya-blood-center.vercel.app)
+A full-stack MERN web application for managing blood donors, donation camps, and blood inventory. Features secure user authentication, an admin dashboard, donor management, camp scheduling, and responsive design for a seamless user experience.
 
 #### 🥗 [Food Delivery App](https://food-devi-frontend-3kzm.onrender.com)
 React-based food ordering app with cart management, login functionality, and an admin panel for order control. Responsive and mobile-friendly.
