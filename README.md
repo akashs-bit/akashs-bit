@@ -31,28 +31,67 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩸 Arogya Component Blood Center</h3>
-      <p>A full-stack web platform designed to streamline blood donation services and information sharing. Features secure user authentication, an admin dashboard, donor management, camp scheduling, and blog posts.</p>
-      <p>
-        <a href="https://arogya-blood-center.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐰 Rabbit Studio</h3>
-      <p>A modern, production-ready Full Stack MERN e-commerce and management web application featuring secure authentication, full product management, user administration, and responsive UI design.</p>
-      <p>
-        <a href="https://rabbit-studio-drab.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-EF5B25?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-    </td>
+
+### 🩸 Arogya Blood Center
+
+A full-stack MERN application developed to simplify blood donation management and improve communication between donors, recipients, and administrators.
+
+#### ✨ Key Features
+- 🔐 Secure JWT Authentication with Role-Based Access Control
+- 👨‍⚕️ Donor Registration & Profile Management
+- 🩸 Blood Inventory & Donor Availability Tracking
+- 📅 Blood Donation Camp Management (Create, Edit, Delete)
+- 📢 Blood Request & Emergency Notification System
+- 📝 Blog Management with Rich Text Editor
+- 📊 Interactive Admin Dashboard with Analytics
+- 📱 Fully Responsive Design for Mobile, Tablet & Desktop
+- ☁️ Cloudinary Image Upload Integration
+- ⚡ REST API built using Node.js & Express
+
+#### 🛠️ Tech Stack
+**React.js • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Cloudinary • Axios • React Router • Context API**
+
+<p>
+  <a href="https://arogya-blood-center.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+  </td>
+
+  <td width="50%" valign="top">
+
+### 🐰 Rabbit Studio
+
+A production-ready full-stack MERN e-commerce and business management platform with secure authentication, product management, user administration, and a modern responsive interface.
+
+#### ✨ Key Features
+- 🔐 Secure User Authentication & Authorization
+- 🛍️ Product Management (CRUD Operations)
+- 📦 Category & Inventory Management
+- 🛒 Shopping Cart & Checkout Flow
+- ❤️ Wishlist & Favorite Products
+- 👤 User Profile & Account Management
+- 📊 Admin Dashboard with Business Statistics
+- 🔍 Product Search, Filtering & Sorting
+- 📱 Fully Responsive UI with Modern Design
+- ⚡ RESTful APIs with MongoDB Database
+
+#### 🛠️ Tech Stack
+**React.js • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Axios • React Router • Context API**
+
+<p>
+  <a href="https://rabbit-studio-drab.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-EF5B25?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+  </td>
   </tr>
 </table>
 ---
