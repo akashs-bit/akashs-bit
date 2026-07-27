@@ -45,11 +45,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🥗 Food Delivery App</h3>
-      <p>A responsive React-based food ordering application equipped with seamless cart management, user authentication, and an intuitive admin panel for real-time order control.</p>
+      <h3>🐰 Rabbit Studio</h3>
+      <p>A modern, production-ready Full Stack MERN e-commerce and management web application featuring secure authentication, full product management, user administration, and responsive UI design.</p>
       <p>
-        <a href="https://food-devi-frontend-3kzm.onrender.com">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-EF5B25?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+        <a href="https://rabbit-studio-drab.vercel.app">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-EF5B25?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
       </p>
     </td>
