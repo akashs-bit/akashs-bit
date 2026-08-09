@@ -102,19 +102,6 @@ A blazing-fast, production-ready full-stack e-commerce ecosystem featuring robus
 
 ---
 
-<div align="center">
-  <h3>⚡ GitHub Analytics & Metrics</h3>
-  <br/>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AkashBojja&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Akash's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBojja&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashBojja&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
 
 ---
 
